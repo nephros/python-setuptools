@@ -1,6 +1,6 @@
 Name:           python3-setuptools
 # When updating, update the bundled libraries versions bellow!
-Version:        77.0.3
+Version:        78.1.1
 Release:        1
 Summary:        Easily build and distribute Python packages
 # setuptools is MIT
